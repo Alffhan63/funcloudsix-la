@@ -14,16 +14,7 @@ More initiative will positively affect our evaluation.
 
 environment :
 
-source test : github.alfhan.linkaja.com
-
-grafana : grafana-linkaja-test.linkaja.com
-
-username : your complete name without space ex : alfhanrizkyfauzan
-
-password : Link3TestCAseL2
-
-loki : grafana-linkaja-test-log.linkaja.com
-
+source test : https://github.com/Alffhan63/funcloudsix-la
 
 
 Goals
